@@ -1,0 +1,7 @@
+br\com\rhuniverse\service\FolhaPagamentoService.class
+br\com\rhuniverse\repository\FuncionarioRepository.class
+br\com\rhuniverse\app\Main.class
+br\com\rhuniverse\model\Funcionario.class
+br\com\rhuniverse\model\FolhaPagamento.class
+br\com\rhuniverse\service\FuncionarioService.class
+br\com\rhuniverse\repository\FuncionarioRepositoryMemoria.class
